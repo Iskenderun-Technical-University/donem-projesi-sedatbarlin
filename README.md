@@ -60,11 +60,6 @@ Dijital video oyuncuları
 * Oyun müziği ön çalışmalar
 * Obje çizimleri
 
-### Sprint board: 
- 
-![sprint board güncel](https://user-images.githubusercontent.com/73478689/172166059-185ba348-8b0d-49cc-9842-8d982e5a0be8.png)
-
-
 ### Ürün sprint tamamlanan görevler:
 #### Hikaye ve oynanış akışı:
 * Oyun içi puzzle mekaniklerine karar verildi
