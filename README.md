@@ -12,7 +12,7 @@ Bu oyunda kullanılan görsel assetler proje sahibi Sedat Barlin tarafından yap
 https://user-images.githubusercontent.com/102957660/185820306-f1710b9c-c05c-4d66-865b-11d1e97ca895.mp4
 #
 # Oyun Açıklaması:
-Soyut kavramlar kullanarak bir çocuğun mücadelesini anlatacağız. 
+Soyut kavramlar kullanarak bir çocuğun mücadelesini anlatacağım. 
 
 # Oyun Özellikleri
 2D, Story base 
@@ -84,6 +84,3 @@ Dijital video oyuncuları
 ![ornek sahne 1](https://user-images.githubusercontent.com/73478689/172162070-21936f90-b41c-4b53-b49d-a6df0239c56c.png)
 ![ornek sahne 2](https://user-images.githubusercontent.com/73478689/172162086-4df15d4d-b124-4dc6-a2e1-2667a01b116e.png)
 ![ornek sahne 3](https://user-images.githubusercontent.com/73478689/172162118-010e00ef-7fdf-4012-9230-7eaf7ca2ec1c.png)
-
-### Sprint Review:
-Bu sprintte proje ile tasarım bütünleştirilmiş , proje oynanabilirliğe ve görselliğe sahip olmuştur.
